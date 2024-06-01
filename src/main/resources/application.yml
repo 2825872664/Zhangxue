@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ZhangXue  # ??????? ZhangXue
+  main:
+    allow-bean-definition-overriding: true  # ?? Bean ????
+  security:
+    user:
+      name: test  # ???? test
+      password: 123456  # ??? 123456
+server:
+  port: 8080  # ?????? 8080
